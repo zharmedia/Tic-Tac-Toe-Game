@@ -1,0 +1,36 @@
+
+
+			================================
+
+
+			 	  Color Theme
+
+
+			================================
+
+
+	Aturan Perwarnaan : 
+	    [1] Pemain dapat mengatur background color dan juga text color sesuai 
+	    [2] Untuk mengatur background color, pemain harus menginput kode antara
+		0-9 dengan rincian warna sebagai berikut :
+
+        		0 = Black		5 = Purple
+        		1 = Blue		6 = Yellow
+        		2 = Green		7 = White
+        		3 = Aqua		8 = Gray
+        		4 = Red			9 = Light Blue
+
+	    [3] Untuk mengatur text color, pemain harus menginput kode antara A-F dengan
+    		rincian warna sebagai berikut :
+
+        		A = Light Green		D = Light Purple
+        		B = Light Aqua		E = Light Yellow
+        		C = Light Red		F = Light White
+
+
+    	Contoh : 
+    	Pemain ingin mengubah background color menjadi Blue dan text color menjadi Light Green
+    	Maka kode yang diinput adalah '1A'
+
+
+    	Input Kode Warna	: 

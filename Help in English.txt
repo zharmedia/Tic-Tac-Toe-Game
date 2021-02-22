@@ -1,0 +1,36 @@
+
+
+    =======================================================================================================
+
+
+						Help Tic Tac Toe 
+
+
+    =======================================================================================================
+
+
+    What is this? :
+    So, this game is called tic-tac-toe. In this game, there's a board game in the form of grid (3x3, 5x5, 7x7)
+    and two players, X and O, who take turns marking spaces ' ' in the board game. The player who takes
+    the turn can mark in the row, column or diagonal side in the board game.
+
+    Also, as you can see in main menu, there's a couple of choices :
+    1. Start to start the game.
+    2. Help to display game descriptions, rules and how to play.
+    3. Highscore to display the history of the player's victory against the computer.
+    4. Color Theme to select the display color of this game.
+    5. Credits for displaying the identity of the developer or creator of this game.
+    6. Exit to exit the game.
+
+    How to play this game? :
+    1. Select Start.
+    2. Select the size of the game board (3x3, 5x5, 7x7).
+    3. Choose who you want to play with (Player/Computer).
+    4. Enter the player name.
+    5. Choose a difficulty level
+    6. Choose who will take the first turn.
+    7. Each turn is limited to 10 seconds.
+    8. You are 'X', your friend (or the computer in this case) is 'O'.
+    Players take turns putting their marks in empty squares.
+    9. The first player to get all of her marks in a row (up, down, across, or diagonally) is the winner.
+    10. When all squares are full, the game is over. If no player has won, the game ends in a tie

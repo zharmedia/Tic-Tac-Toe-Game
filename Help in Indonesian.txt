@@ -1,0 +1,39 @@
+
+
+    =======================================================================================================
+
+
+						Help Tic Tac Toe 
+
+
+    =======================================================================================================
+
+
+    Apa ini? :
+
+    Game ini bernama tic tac toe. Dalam game ini, terdapat 2 komponen utama
+    yaitu papan permainan yang terdiri dari 3 ukuran (3x3, 5x5, 7x7) dan
+    juga pemain/bot yang dapat menempatkan tanda 'X' atau 'O' di papan permainan
+
+    Seperti yang anda lihat, pada bagian main menu terdapat beberapa pilihan :
+    1. Start untuk memulai game
+    2. Help untuk menampilkan deskripsi game dan juga cara bermainnya
+    3. Highscore untuk menampilkan riwayat kemenangan melawan komputer
+    4. Color Theme untuk memilih background dan text color pada permainan
+    5. Credits untuk menampilkan identitas developer atau creator dari permainan
+    6. Exit untuk keluar dari game
+
+    Bagaimana cara bermainnya? :
+    1. Silakan pilih start pada main menu
+    2. Setelah itu, pilih ukuran grid permainan (3x3,5x5,7x7)
+    3. Pilih lawan, bisa melawan player 2 dan juga komputer
+    4. Inputkan nama anda. Jika melawan player 2, maka inputkkan juga namanya
+    5. Pilih tingkat kesulitan dari komputer
+    6. Setelah itu, pilih siapa yang mendapatkan giliran pertama main
+    7. Perlu diingat bahwa setiap giliran dibatas dengan 10 detik
+    8. Player 1 memiliki tanda 'X', sedangkan player 2 atau komputer memiliki tanda 'O'
+    9. Setiap player atau komputer dapat mengisi tandanya masing-masing di papan permainan
+    10. Pemain/bot dikatakan menang, jika sudah mengisi tandanya sebanyak 3 kali berturut-turut
+    pada grid 3x3 atau 4 kali berturut-turut pada grid 5x5 dan/atau 5 kali berturut-turut pada grid 7x7
+    11. Setiap ronde selesai, pemain dapat menentukan apakah mau melanjutkan permainan atau tidak
+    12. Setiap kemenangan melawan komputer, maka pemain dapat melihat riwayatnya di menu highscore

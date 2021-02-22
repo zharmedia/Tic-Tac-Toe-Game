@@ -1,0 +1,9 @@
+
+   * Game's Name: Tic-Tac-Toe
+   * Developer 1: Muhammad Azhar Alauddin D4TI-1A-201524013
+   * Developer 2: Difa Mochammad Fadillah D4TI-1A-201524006
+   * Date: 17 February 2021
+   * Comment: I hope you guys can enjoy this game ^_^
+
+
+   Stay in touch! Thanks a lot...
