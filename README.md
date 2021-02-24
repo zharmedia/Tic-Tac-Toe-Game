@@ -12,7 +12,7 @@ So, this game is called tic-tac-toe or people also called Line 'OX'. As a normal
 - Multi-player (player 1 vs player 2)
 
 ### How to Play?
-1. Select Start in main menu by typing '1'.
+1. The first interface of this game is main menu. If you wanna jump right into this game, just type '1' and ENTER on your keyboard
 2. After that, there's some needs of data like the grid size, mode game, namePlayer, and difficultyLevel that the player have to fill in and choose
 3. Player whether Player 1 or Player 2, have to pay attention with the timer in 10 seconds.
 4. Marking 'X' or 'O' is by filling in the co-ordinate x and y
