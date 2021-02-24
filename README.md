@@ -17,7 +17,7 @@ So, this game is called tic-tac-toe or people also called Line 'OX'. As a normal
 3. Player whether Player 1 or Player 2, have to pay attention with the timer in 10 seconds.
 4. Marking 'X' or 'O' is by filling in the co-ordinate x and y
 5. If you're the first time who get marking the same as with check win condition, then you're the winner. Otherwise, the bot is the winner
-6. Beside that, you also can see some other feature like help, highscore, etc in main menu
+6. Beside that, you can also see others features such as help, highscore, etc in main menu
 
 ### Bases
 This game is totally made with C languages
