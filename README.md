@@ -24,3 +24,7 @@ This game is totally made with C languages
 
 ### Credit
 Thanks for all contributor. Especially for the lecturer who has guided us for making this project
+
+### Contributor
+- [Muhammad Azhar Alauddin](https://github.com/zharmedia)
+- [Difa Mochammad Fadillah](https://github.com/Fwlch-04)
